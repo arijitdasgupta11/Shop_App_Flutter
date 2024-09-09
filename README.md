@@ -15,5 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+<p align="center">
+  <img src="assets/homepage.png" alt="Image 1" width="200" />
+  <img src="assets/productdetails.png" alt="Image 2" width="200" />
+  <img src="assets/cartpage.png" alt="Image 3" width="200" />
+  <img src="assets/dialogbox.png" alt="Image 4" width="200" />
+</p>
 
-!(assets/images/shoes_2.png)
